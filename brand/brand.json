@@ -1,0 +1,33 @@
+{
+  "name": "Trackb Prod",
+  "tagline": "Build the World Around the Work.",
+  "category": "entertainment",
+  "description": "An entertainment brand for releases, talent, shows, media, fan discovery, events, and commerce.",
+  "colors": [
+    "#050708",
+    "#f8fbff",
+    "#9cff00",
+    "#00d9ff",
+    "#8c98a3",
+    "#0e1518"
+  ],
+  "website": "https://trackb-prod.github.io/",
+  "principles": [
+    "culture",
+    "story",
+    "audience",
+    "moment"
+  ],
+  "support": {
+    "email": null,
+    "phone": null,
+    "salesPhone": null,
+    "businessPhone": null,
+    "hours": null,
+    "center": "https://trackb-prod.github.io/support.html"
+  },
+  "privacy": {
+    "connectedAccountEmailPublished": false
+  },
+  "telnyxMode": false
+}
